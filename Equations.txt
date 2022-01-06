@@ -2,3 +2,6 @@ Welcome to main page
 
 addition a+b
 subtraction a-b
+multiplication a*b
+
+Thank you.
